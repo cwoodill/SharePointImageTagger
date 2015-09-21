@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePointImageTagger", "SharePointImageTagger\SharePointImageTagger.csproj", "{5C2E11C2-F98F-4ECC-AC1C-DC1AE4BFAB0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePointImageTaggerUnitTests", "SharePointImageTaggerUnitTests\SharePointImageTaggerUnitTests.csproj", "{7CC22B06-8233-4AF9-8F3D-5579E80A4ACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.ProjectOxford.Vision", "..\..\..\Visual Studio 2013\Projects\Computer Vision API\ClientLibrary\Microsoft.ProjectOxford.Vision.csproj", "{555D2260-8472-476A-8619-3654367C4DB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientLibrary", "..\..\..\Visual Studio 2013\Projects\Face API\ClientLibrary\ClientLibrary.csproj", "{34DAA01D-3F6B-4622-9425-726B0B4A6C78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C2E11C2-F98F-4ECC-AC1C-DC1AE4BFAB0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C2E11C2-F98F-4ECC-AC1C-DC1AE4BFAB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C2E11C2-F98F-4ECC-AC1C-DC1AE4BFAB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C2E11C2-F98F-4ECC-AC1C-DC1AE4BFAB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC22B06-8233-4AF9-8F3D-5579E80A4ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC22B06-8233-4AF9-8F3D-5579E80A4ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC22B06-8233-4AF9-8F3D-5579E80A4ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC22B06-8233-4AF9-8F3D-5579E80A4ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{555D2260-8472-476A-8619-3654367C4DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{555D2260-8472-476A-8619-3654367C4DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{555D2260-8472-476A-8619-3654367C4DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{555D2260-8472-476A-8619-3654367C4DB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34DAA01D-3F6B-4622-9425-726B0B4A6C78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34DAA01D-3F6B-4622-9425-726B0B4A6C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34DAA01D-3F6B-4622-9425-726B0B4A6C78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34DAA01D-3F6B-4622-9425-726B0B4A6C78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
